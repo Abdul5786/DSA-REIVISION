@@ -38,6 +38,8 @@ public class Sorting {
               }
           }
     }
+    
+
 
     public static void insertionSort(int arr[])
     {
@@ -63,6 +65,12 @@ public class Sorting {
         arr[a] = arr[b];
         arr[b] = temp;
     }
+
+
+
+
+
+
 
 
 
